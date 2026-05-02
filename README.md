@@ -18,7 +18,7 @@ Strings are one of the most used data types in programming. This repository prov
 - **Focus**: String Data Structures & Algorithms
 
 ## 👨‍💻 About the Author
-I am **Mohammed Mahrous Taha**, a Medical Equipment Engineer with a passion for **Frontend Development** and Python programming. I bridge the gap between healthcare technology and software solutions.
+I am **Mohammed Mahrous Taha**, a Medical Equipment Maintenance Specialist with a passion for **Frontend Development** and Python programming. I bridge the gap between healthcare technology and software solutions.
 
 ---
 ⭐ **If you find this helpful, feel free to star the repository!**
